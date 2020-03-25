@@ -1,5 +1,7 @@
 $(document).ready(function() {
   $("#slides").superslides({
-    animation: "fade"
+    animation: "fade",
+    play: 3000,
+    pagination: false
   });
 });
