@@ -9,7 +9,7 @@ $(document).ready(function() {
     strings: [
       "ANDROID APP DEVELOPER",
       "FULL STACK WEB DEVELOPER",
-      "3rd YEAR COMPUTER SCIENCE AND ENGINEERING STUDENT"
+      "3RD YEAR COMPUTER SCIENCE AND ENGINEERING STUDENT"
     ],
     typeSpeed: 25,
     fadeOut: false,
