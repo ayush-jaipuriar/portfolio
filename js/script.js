@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $("#slides").superslides({
     animation: "fade",
-    play: 3000,
+    play: 2000,
     pagination: false
   });
 
@@ -12,7 +12,7 @@ $(document).ready(function() {
       "COMPUTER SCIENCE AND ENGINEERING 3RD YEAR STUDENT"
     ],
     typeSpeed: 25,
-    fadeOut: false,
+    fadeOut: true,
     fadeOutClass: "typed-fade-out",
     fadeOutDelay: 500,
 
