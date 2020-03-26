@@ -9,16 +9,13 @@ $(document).ready(function() {
     strings: [
       "ANDROID APP DEVELOPER",
       "FULL STACK WEB DEVELOPER",
-      "3RD YEAR COMPUTER SCIENCE AND ENGINEERING STUDENT"
+      "3RD YEAR CSE STUDENT"
     ],
     typeSpeed: 25,
-    fadeOut: true,
-    fadeOutClass: "typed-fade-out",
-    fadeOutDelay: 500,
 
     startDelay: 1000,
     backSpeed: 25,
-    backDelay: 1000,
+    backDelay: 2000,
     smartBackspace: true,
     loop: true,
     showCursor: false
