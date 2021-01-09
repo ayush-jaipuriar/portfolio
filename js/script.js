@@ -9,7 +9,8 @@ $(document).ready(function() {
     strings: [
       "ANDROID APP DEVELOPER",
       "FULL STACK WEB DEVELOPER",
-      "3RD YEAR CSE STUDENT"
+      "RPA DEVELOPER",
+      "4RD YEAR CSE STUDENT"
     ],
     typeSpeed: 25,
 
